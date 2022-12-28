@@ -843,7 +843,7 @@ local function LYLMZV_fake_script() -- Brookhaven.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(bb)
 	
-	if game.Players.LocalPlayer.UserId == 754547278 then
+	if game.Players.LocalPlayer.UserId == 754547278 or 645708216 then
 		print(2)
 	else script.Parent:Destroy()
 	
@@ -866,7 +866,7 @@ local function MZLXJYH_fake_script() -- Arsenal.LocalScript
 		
 	end
 	script.Parent.MouseButton1Click:Connect(mm2)
-	if game.Players.LocalPlayer.UserId == 754547278 then
+	if game.Players.LocalPlayer.UserId == 754547278 or 645708216 then
 		print(2)
 		else script.Parent:Destroy()
 	
@@ -930,7 +930,7 @@ local function DQNHW_fake_script() -- TextLabel_17.LocalScript
 
 	local status = false
 	local vip = "Básico"
-	if game.Players.LocalPlayer.UserId == 754547278 then status = true
+	if game.Players.LocalPlayer.UserId == 754547278 or 645708216 then status = true
 		if status == true then
 			vip = "VIP"
 		end
