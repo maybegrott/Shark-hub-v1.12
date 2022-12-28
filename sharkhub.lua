@@ -77,7 +77,7 @@ Frame1.Name = "Frame1"
 Frame1.Parent = SharkHub
 Frame1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame1.BackgroundTransparency = 1.000
-Frame1.Size = UDim2.new(0, 1001, 0, 100)
+Frame1.Size = UDim2.new(0, 73, 0, 100)
 
 main.Name = "main"
 main.Parent = Frame1
@@ -138,11 +138,11 @@ Adoptme.Parent = Buttons
 Adoptme.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
 Adoptme.BackgroundTransparency = 1.000
 Adoptme.BorderSizePixel = 0
-Adoptme.Position = UDim2.new(0.00543478271, 0, 0.176258922, 0)
-Adoptme.Size = UDim2.new(0, 95, 0, 37)
+Adoptme.Position = UDim2.new(0.00543476362, 0, 0.145273, 0)
+Adoptme.Size = UDim2.new(0, 95, 0, 29)
 Adoptme.Font = Enum.Font.SourceSans
 Adoptme.Text = "Adopt Me"
-Adoptme.TextColor3 = Color3.fromRGB(211, 139, 50)
+Adoptme.TextColor3 = Color3.fromRGB(0, 211, 211)
 Adoptme.TextScaled = true
 Adoptme.TextSize = 14.000
 Adoptme.TextWrapped = true
@@ -165,14 +165,14 @@ mm2_Roundify_12px.SliceScale = 0.120
 
 mm2.Name = "mm2"
 mm2.Parent = Buttons
-mm2.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+mm2.BackgroundColor3 = Color3.fromRGB(0, 87, 104)
 mm2.BackgroundTransparency = 1.000
 mm2.BorderSizePixel = 0
-mm2.Position = UDim2.new(0.00543478271, 0, 0.303426564, 0)
-mm2.Size = UDim2.new(0, 95, 0, 37)
+mm2.Position = UDim2.new(0.00543476362, 0, 0.246587664, 0)
+mm2.Size = UDim2.new(0, 95, 0, 29)
 mm2.Font = Enum.Font.SourceSans
 mm2.Text = "Murder Mystery 2"
-mm2.TextColor3 = Color3.fromRGB(211, 139, 50)
+mm2.TextColor3 = Color3.fromRGB(0, 211, 211)
 mm2.TextScaled = true
 mm2.TextSize = 14.000
 mm2.TextWrapped = true
@@ -198,11 +198,11 @@ Bloxburg.Parent = Buttons
 Bloxburg.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
 Bloxburg.BackgroundTransparency = 1.000
 Bloxburg.BorderSizePixel = 0
-Bloxburg.Position = UDim2.new(0.00543478271, 0, 0.439264715, 0)
-Bloxburg.Size = UDim2.new(0, 95, 0, 37)
+Bloxburg.Position = UDim2.new(0.00543476362, 0, 0.354810119, 0)
+Bloxburg.Size = UDim2.new(0, 95, 0, 29)
 Bloxburg.Font = Enum.Font.SourceSans
 Bloxburg.Text = "Bloxburg"
-Bloxburg.TextColor3 = Color3.fromRGB(211, 139, 50)
+Bloxburg.TextColor3 = Color3.fromRGB(0, 211, 211)
 Bloxburg.TextScaled = true
 Bloxburg.TextSize = 14.000
 Bloxburg.TextWrapped = true
@@ -228,11 +228,11 @@ BloxFruits.Parent = Buttons
 BloxFruits.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
 BloxFruits.BackgroundTransparency = 1.000
 BloxFruits.BorderSizePixel = 0
-BloxFruits.Position = UDim2.new(0.00543478271, 0, 0.577993095, 0)
-BloxFruits.Size = UDim2.new(0, 95, 0, 37)
+BloxFruits.Position = UDim2.new(0.00543476362, 0, 0.46533531, 0)
+BloxFruits.Size = UDim2.new(0, 95, 0, 29)
 BloxFruits.Font = Enum.Font.SourceSans
 BloxFruits.Text = "Blox Fruits"
-BloxFruits.TextColor3 = Color3.fromRGB(211, 139, 50)
+BloxFruits.TextColor3 = Color3.fromRGB(0, 211, 211)
 BloxFruits.TextScaled = true
 BloxFruits.TextSize = 14.000
 BloxFruits.TextWrapped = true
@@ -258,11 +258,11 @@ Perfil.Parent = Buttons
 Perfil.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
 Perfil.BackgroundTransparency = 1.000
 Perfil.BorderSizePixel = 0
-Perfil.Position = UDim2.new(0.00543478271, 0, 0.043310985, 0)
+Perfil.Position = UDim2.new(0.00543478271, 0, 0.0207757745, 0)
 Perfil.Size = UDim2.new(0, 95, 0, 37)
 Perfil.Font = Enum.Font.SourceSans
 Perfil.Text = "Perfil"
-Perfil.TextColor3 = Color3.fromRGB(211, 139, 50)
+Perfil.TextColor3 = Color3.fromRGB(211, 211, 211)
 Perfil.TextScaled = true
 Perfil.TextSize = 14.000
 Perfil.TextWrapped = true
@@ -272,11 +272,11 @@ Brookhaven.Parent = Buttons
 Brookhaven.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
 Brookhaven.BackgroundTransparency = 1.000
 Brookhaven.BorderSizePixel = 0
-Brookhaven.Position = UDim2.new(0.00543478271, 0, 0.728282094, 0)
-Brookhaven.Size = UDim2.new(0, 95, 0, 37)
+Brookhaven.Position = UDim2.new(0.00543476362, 0, 0.58507067, 0)
+Brookhaven.Size = UDim2.new(0, 95, 0, 29)
 Brookhaven.Font = Enum.Font.SourceSans
 Brookhaven.Text = "Brookhaven RP"
-Brookhaven.TextColor3 = Color3.fromRGB(211, 139, 50)
+Brookhaven.TextColor3 = Color3.fromRGB(0, 211, 211)
 Brookhaven.TextScaled = true
 Brookhaven.TextSize = 14.000
 Brookhaven.TextWrapped = true
@@ -302,11 +302,11 @@ Arsenal.Parent = Buttons
 Arsenal.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
 Arsenal.BackgroundTransparency = 1.000
 Arsenal.BorderSizePixel = 0
-Arsenal.Position = UDim2.new(0.00543478271, 0, 0.875680923, 0)
-Arsenal.Size = UDim2.new(0, 95, 0, 37)
+Arsenal.Position = UDim2.new(0.00543476362, 0, 0.702503502, 0)
+Arsenal.Size = UDim2.new(0, 95, 0, 29)
 Arsenal.Font = Enum.Font.SourceSans
 Arsenal.Text = "Arsenal"
-Arsenal.TextColor3 = Color3.fromRGB(211, 139, 50)
+Arsenal.TextColor3 = Color3.fromRGB(0, 211, 211)
 Arsenal.TextScaled = true
 Arsenal.TextSize = 14.000
 Arsenal.TextWrapped = true
@@ -317,7 +317,7 @@ Arsenal_Roundify_12px.Active = true
 Arsenal_Roundify_12px.AnchorPoint = Vector2.new(0.5, 0.5)
 Arsenal_Roundify_12px.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Arsenal_Roundify_12px.BackgroundTransparency = 1.000
-Arsenal_Roundify_12px.Position = UDim2.new(0.5, 0, 0.5, 0)
+Arsenal_Roundify_12px.Position = UDim2.new(0.5, 0, 0.445945948, 0)
 Arsenal_Roundify_12px.Selectable = true
 Arsenal_Roundify_12px.Size = UDim2.new(1, 0, 1, 0)
 Arsenal_Roundify_12px.Image = "rbxassetid://3570695787"
@@ -334,13 +334,13 @@ am.Name = "am"
 am.Parent = Hidden
 
 TextButton.Parent = am
-TextButton.BackgroundColor3 = Color3.fromRGB(104, 64, 0)
+TextButton.BackgroundColor3 = Color3.fromRGB(0, 87, 104)
 TextButton.Position = UDim2.new(0.401079148, 0, 0.343661964, 0)
 TextButton.Size = UDim2.new(0, 200, 0, 50)
 TextButton.Visible = false
 TextButton.Font = Enum.Font.SourceSans
 TextButton.Text = "Executar"
-TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.TextColor3 = Color3.fromRGB(0, 211, 211)
 TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
@@ -385,13 +385,13 @@ mm2_2.Name = "mm2"
 mm2_2.Parent = Hidden
 
 TextButton_2.Parent = mm2_2
-TextButton_2.BackgroundColor3 = Color3.fromRGB(104, 64, 0)
+TextButton_2.BackgroundColor3 = Color3.fromRGB(0, 87, 104)
 TextButton_2.Position = UDim2.new(0.401079148, 0, 0.343661964, 0)
 TextButton_2.Size = UDim2.new(0, 200, 0, 50)
 TextButton_2.Visible = false
 TextButton_2.Font = Enum.Font.SourceSans
 TextButton_2.Text = "Executar"
-TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_2.TextColor3 = Color3.fromRGB(0, 211, 211)
 TextButton_2.TextScaled = true
 TextButton_2.TextSize = 14.000
 TextButton_2.TextWrapped = true
@@ -436,13 +436,13 @@ bb.Name = "bb"
 bb.Parent = Hidden
 
 TextButton_3.Parent = bb
-TextButton_3.BackgroundColor3 = Color3.fromRGB(104, 64, 0)
+TextButton_3.BackgroundColor3 = Color3.fromRGB(0, 87, 104)
 TextButton_3.Position = UDim2.new(0.401079148, 0, 0.343661964, 0)
 TextButton_3.Size = UDim2.new(0, 200, 0, 50)
 TextButton_3.Visible = false
 TextButton_3.Font = Enum.Font.SourceSans
 TextButton_3.Text = "Executar"
-TextButton_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_3.TextColor3 = Color3.fromRGB(0, 211, 211)
 TextButton_3.TextScaled = true
 TextButton_3.TextSize = 14.000
 TextButton_3.TextWrapped = true
@@ -487,13 +487,13 @@ bf.Name = "bf"
 bf.Parent = Hidden
 
 TextButton_4.Parent = bf
-TextButton_4.BackgroundColor3 = Color3.fromRGB(104, 64, 0)
+TextButton_4.BackgroundColor3 = Color3.fromRGB(0, 87, 104)
 TextButton_4.Position = UDim2.new(0.401079148, 0, 0.343661964, 0)
 TextButton_4.Size = UDim2.new(0, 200, 0, 50)
 TextButton_4.Visible = false
 TextButton_4.Font = Enum.Font.SourceSans
 TextButton_4.Text = "Executar"
-TextButton_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_4.TextColor3 = Color3.fromRGB(0, 211, 211)
 TextButton_4.TextScaled = true
 TextButton_4.TextSize = 14.000
 TextButton_4.TextWrapped = true
@@ -538,13 +538,13 @@ bb_2.Name = "bb"
 bb_2.Parent = Hidden
 
 TextButton_5.Parent = bb_2
-TextButton_5.BackgroundColor3 = Color3.fromRGB(104, 64, 0)
+TextButton_5.BackgroundColor3 = Color3.fromRGB(0, 87, 104)
 TextButton_5.Position = UDim2.new(0.401079148, 0, 0.343661964, 0)
 TextButton_5.Size = UDim2.new(0, 200, 0, 50)
 TextButton_5.Visible = false
 TextButton_5.Font = Enum.Font.SourceSans
 TextButton_5.Text = "Executar"
-TextButton_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_5.TextColor3 = Color3.fromRGB(0, 211, 211)
 TextButton_5.TextScaled = true
 TextButton_5.TextSize = 14.000
 TextButton_5.TextWrapped = true
@@ -605,7 +605,7 @@ TextLabel_17.BackgroundTransparency = 1.000
 TextLabel_17.Position = UDim2.new(-0.310000002, 0, 1.72000003, 0)
 TextLabel_17.Size = UDim2.new(0, 323, 0, 50)
 TextLabel_17.Font = Enum.Font.Merriweather
-TextLabel_17.TextColor3 = Color3.fromRGB(255, 110, 43)
+TextLabel_17.TextColor3 = Color3.fromRGB(0, 211, 211)
 TextLabel_17.TextScaled = true
 TextLabel_17.TextSize = 14.000
 TextLabel_17.TextWrapped = true
@@ -614,13 +614,13 @@ bh.Name = "bh"
 bh.Parent = Hidden
 
 TextButton_6.Parent = bh
-TextButton_6.BackgroundColor3 = Color3.fromRGB(104, 64, 0)
+TextButton_6.BackgroundColor3 = Color3.fromRGB(0, 87, 104)
 TextButton_6.Position = UDim2.new(0.401079148, 0, 0.343661964, 0)
 TextButton_6.Size = UDim2.new(0, 200, 0, 50)
 TextButton_6.Visible = false
 TextButton_6.Font = Enum.Font.SourceSans
 TextButton_6.Text = "Executar"
-TextButton_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_6.TextColor3 = Color3.fromRGB(0, 211, 211)
 TextButton_6.TextScaled = true
 TextButton_6.TextSize = 14.000
 TextButton_6.TextWrapped = true
@@ -665,13 +665,13 @@ ar.Name = "ar"
 ar.Parent = Hidden
 
 TextButton_7.Parent = ar
-TextButton_7.BackgroundColor3 = Color3.fromRGB(104, 64, 0)
+TextButton_7.BackgroundColor3 = Color3.fromRGB(0, 87, 104)
 TextButton_7.Position = UDim2.new(0.401079148, 0, 0.343661964, 0)
 TextButton_7.Size = UDim2.new(0, 200, 0, 50)
 TextButton_7.Visible = false
 TextButton_7.Font = Enum.Font.SourceSans
 TextButton_7.Text = "Executar"
-TextButton_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_7.TextColor3 = Color3.fromRGB(0, 211, 211)
 TextButton_7.TextScaled = true
 TextButton_7.TextSize = 14.000
 TextButton_7.TextWrapped = true
@@ -739,7 +739,7 @@ TextButton_Roundify_12px.Position = UDim2.new(0.501735687, 0, 0.528422654, 0)
 TextButton_Roundify_12px.Selectable = true
 TextButton_Roundify_12px.Size = UDim2.new(1.00347221, 0, 1.05684566, 0)
 TextButton_Roundify_12px.Image = "rbxassetid://3570695787"
-TextButton_Roundify_12px.ImageColor3 = Color3.fromRGB(255, 120, 66)
+TextButton_Roundify_12px.ImageColor3 = Color3.fromRGB(4, 0, 111)
 TextButton_Roundify_12px.ScaleType = Enum.ScaleType.Slice
 TextButton_Roundify_12px.SliceCenter = Rect.new(100, 100, 100, 100)
 TextButton_Roundify_12px.SliceScale = 0.120
@@ -749,7 +749,7 @@ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 -- Scripts:
 
-local function GVTRP_fake_script() -- Adoptme.LocalScript 
+local function SYFDBQ_fake_script() -- Adoptme.LocalScript 
 	local script = Instance.new('LocalScript', Adoptme)
 
 	local function am()
@@ -763,8 +763,8 @@ local function GVTRP_fake_script() -- Adoptme.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(am)
 end
-coroutine.wrap(GVTRP_fake_script)()
-local function WBGFBM_fake_script() -- mm2.LocalScript 
+coroutine.wrap(SYFDBQ_fake_script)()
+local function FJTAFA_fake_script() -- mm2.LocalScript 
 	local script = Instance.new('LocalScript', mm2)
 
 	local function mm2()
@@ -781,8 +781,8 @@ local function WBGFBM_fake_script() -- mm2.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(mm2)
 end
-coroutine.wrap(WBGFBM_fake_script)()
-local function HSAGQDY_fake_script() -- Bloxburg.LocalScript 
+coroutine.wrap(FJTAFA_fake_script)()
+local function IDDZE_fake_script() -- Bloxburg.LocalScript 
 	local script = Instance.new('LocalScript', Bloxburg)
 
 	local function bb()
@@ -796,8 +796,8 @@ local function HSAGQDY_fake_script() -- Bloxburg.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(bb)
 end
-coroutine.wrap(HSAGQDY_fake_script)()
-local function HRVD_fake_script() -- BloxFruits.LocalScript 
+coroutine.wrap(IDDZE_fake_script)()
+local function ZPOELV_fake_script() -- BloxFruits.LocalScript 
 	local script = Instance.new('LocalScript', BloxFruits)
 
 	local function mm2()
@@ -813,8 +813,8 @@ local function HRVD_fake_script() -- BloxFruits.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(mm2)
 end
-coroutine.wrap(HRVD_fake_script)()
-local function ODADNWA_fake_script() -- Perfil.LocalScript 
+coroutine.wrap(ZPOELV_fake_script)()
+local function JDTXDRH_fake_script() -- Perfil.LocalScript 
 	local script = Instance.new('LocalScript', Perfil)
 
 	local function per()
@@ -828,8 +828,8 @@ local function ODADNWA_fake_script() -- Perfil.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(per)
 end
-coroutine.wrap(ODADNWA_fake_script)()
-local function LYLMZV_fake_script() -- Brookhaven.LocalScript 
+coroutine.wrap(JDTXDRH_fake_script)()
+local function JWKNG_fake_script() -- Brookhaven.LocalScript 
 	local script = Instance.new('LocalScript', Brookhaven)
 
 	local function bb()
@@ -845,14 +845,16 @@ local function LYLMZV_fake_script() -- Brookhaven.LocalScript
 	
 	if game.Players.LocalPlayer.UserId == 754547278 then
 		print(2)
-		elseif game.Players.LocalPlayer.UserId == 645708216 then
-		print (3)
+	elseif game.Players.LocalPlayer.UserId == 645708216 then
+		print(3)
+	elseif game.Players.LocalPlayer.UserId == 1402909641 then
+		print(4)
 	else script.Parent:Destroy()
 	
 	end
 end
-coroutine.wrap(LYLMZV_fake_script)()
-local function MZLXJYH_fake_script() -- Arsenal.LocalScript 
+coroutine.wrap(JWKNG_fake_script)()
+local function QHJIYIX_fake_script() -- Arsenal.LocalScript 
 	local script = Instance.new('LocalScript', Arsenal)
 
 	local function mm2()
@@ -870,14 +872,16 @@ local function MZLXJYH_fake_script() -- Arsenal.LocalScript
 	script.Parent.MouseButton1Click:Connect(mm2)
 	if game.Players.LocalPlayer.UserId == 754547278 then
 		print(2)
-		elseif game.Players.LocalPlayer.UserId == 645708216 then
+	elseif game.Players.LocalPlayer.UserId == 645708216 then
 		print(3)
+	elseif game.Players.LocalPlayer.UserId == 1402909641 then
+		print(4)
 		else script.Parent:Destroy()
 	
 	end
 end
-coroutine.wrap(MZLXJYH_fake_script)()
-local function RKOO_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(QHJIYIX_fake_script)()
+local function VOPCBLC_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local function click()
@@ -885,8 +889,8 @@ local function RKOO_fake_script() -- TextButton.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(click)
 end
-coroutine.wrap(RKOO_fake_script)()
-local function GVKYQD_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(VOPCBLC_fake_script)()
+local function JAEXXMW_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	local function click()
@@ -894,8 +898,8 @@ local function GVKYQD_fake_script() -- TextButton_2.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(click)
 end
-coroutine.wrap(GVKYQD_fake_script)()
-local function RAPZXVT_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(JAEXXMW_fake_script)()
+local function NZNACB_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	local function click()
@@ -903,8 +907,8 @@ local function RAPZXVT_fake_script() -- TextButton_3.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(click)
 end
-coroutine.wrap(RAPZXVT_fake_script)()
-local function HGFJS_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(NZNACB_fake_script)()
+local function FIXNRWV_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	local function click()
@@ -912,8 +916,8 @@ local function HGFJS_fake_script() -- TextButton_4.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(click)
 end
-coroutine.wrap(HGFJS_fake_script)()
-local function ZLVIHMR_fake_script() -- TextButton_5.LocalScript 
+coroutine.wrap(FIXNRWV_fake_script)()
+local function TVXQQIC_fake_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	local function click()
@@ -921,29 +925,30 @@ local function ZLVIHMR_fake_script() -- TextButton_5.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(click)
 end
-coroutine.wrap(ZLVIHMR_fake_script)()
-local function MINBV_fake_script() -- TextLabel_16.LocalScript 
+coroutine.wrap(TVXQQIC_fake_script)()
+local function YPWYE_fake_script() -- TextLabel_16.LocalScript 
 	local script = Instance.new('LocalScript', TextLabel_16)
 
 	player = game.Players.LocalPlayer.DisplayName
 	script.Parent.Text = "Olá, ".. player
 end
-coroutine.wrap(MINBV_fake_script)()
-local function DQNHW_fake_script() -- TextLabel_17.LocalScript 
+coroutine.wrap(YPWYE_fake_script)()
+local function DWWE_fake_script() -- TextLabel_17.LocalScript 
 	local script = Instance.new('LocalScript', TextLabel_17)
 
 	local status = false
 	local vip = "Básico"
 	if game.Players.LocalPlayer.UserId == 754547278 then status = true
-		elseif game.Players.LocalPlayer.UserId == 645708216 then status = true
+	elseif game.Players.LocalPlayer.UserId == 645708216 then status = true
+	elseif game.Players.LocalPlayer.UserId == 1402909641 then status = true
 		if status == true then
 			vip = "VIP"
 		end
 	end
 	script.Parent.Text = "Seu status atual é: ".. vip 
 end
-coroutine.wrap(DQNHW_fake_script)()
-local function IJRCTD_fake_script() -- TextButton_6.LocalScript 
+coroutine.wrap(DWWE_fake_script)()
+local function YVQVZZ_fake_script() -- TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_6)
 
 	local function click()
@@ -951,8 +956,8 @@ local function IJRCTD_fake_script() -- TextButton_6.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(click)
 end
-coroutine.wrap(IJRCTD_fake_script)()
-local function MPIYR_fake_script() -- TextButton_7.LocalScript 
+coroutine.wrap(YVQVZZ_fake_script)()
+local function ZXVHBYN_fake_script() -- TextButton_7.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_7)
 
 	local function click()
@@ -960,8 +965,8 @@ local function MPIYR_fake_script() -- TextButton_7.LocalScript
 	end
 	script.Parent.MouseButton1Click:Connect(click)
 end
-coroutine.wrap(MPIYR_fake_script)()
-local function WBJHP_fake_script() -- main.Drag 
+coroutine.wrap(ZXVHBYN_fake_script)()
+local function OOEUKJD_fake_script() -- main.Drag 
 	local script = Instance.new('LocalScript', main)
 
 	local UIS = game:GetService('UserInputService')
@@ -1000,8 +1005,8 @@ local function WBJHP_fake_script() -- main.Drag
 	end)
 	
 end
-coroutine.wrap(WBJHP_fake_script)()
-local function EEVXG_fake_script() -- TextButton_8.LocalScript 
+coroutine.wrap(OOEUKJD_fake_script)()
+local function YIAGUP_fake_script() -- TextButton_8.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_8)
 
 	local function close ()
@@ -1020,25 +1025,25 @@ local function EEVXG_fake_script() -- TextButton_8.LocalScript
 	script.Parent.MouseButton1Click:Connect(close)
 	
 end
-coroutine.wrap(EEVXG_fake_script)()
-local function XUNBWPF_fake_script() -- Frame1.df 
+coroutine.wrap(YIAGUP_fake_script)()
+local function QEVNDY_fake_script() -- Frame1.df 
 	local script = Instance.new('LocalScript', Frame1)
 
 	
 end
-coroutine.wrap(XUNBWPF_fake_script)()
-local function HYPHYRF_fake_script() -- Frame1.LocalScript 
+coroutine.wrap(QEVNDY_fake_script)()
+local function BFJEN_fake_script() -- Frame1.LocalScript 
 	local script = Instance.new('LocalScript', Frame1)
 
 	
 	script.Parent:TweenSize(UDim2.new(0,100,0,100), "Out", "Sine", 1)
 	
 end
-coroutine.wrap(HYPHYRF_fake_script)()
-local function ZILHKD_fake_script() -- SharkHub.LocalScript 
+coroutine.wrap(BFJEN_fake_script)()
+local function ITJU_fake_script() -- SharkHub.LocalScript 
 	local script = Instance.new('LocalScript', SharkHub)
 
 	
 	
 end
-coroutine.wrap(ZILHKD_fake_script)()
+coroutine.wrap(ITJU_fake_script)()
